@@ -1,4 +1,4 @@
-# Encoder Bot
+# Encoder Bot 🐭
 A Telegram Bot To Encode x265 (HEVC) / x264 (AVC) Via FFMPEG
 
 > Added Optimize Settings To Encode x265 :) 
