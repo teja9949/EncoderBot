@@ -6,7 +6,7 @@
       "pyrogram",
       "encoding"
     ],
-    "website": "https://xizang.tk",
+    "website": "https://github.com/xiz7ng/EncoderBot",
     "repository": "https://github.com/xiz7ng/EncoderBot",
     "env": {
         "API_ID": {
