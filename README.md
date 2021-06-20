@@ -31,7 +31,10 @@ python3 main.py
 
 ### Deploying on Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+- Fork The Repository
+- Create an App On Heroku Add [The FFMPEG Buildpack](https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest)
+- Fill In [config.env](./config.env)
+- Deploy 
 
 ### Credits
 *Thanks to [ShannonScott](https://gist.github.com/ShannonScott) for [transcode_h265.py](https://gist.github.com/ShannonScott/6d807fc59bfa0356eee64fad66f9d9a8)*
