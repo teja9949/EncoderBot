@@ -14,7 +14,8 @@ Add Values In Environment Variables or Add Them In [config.env](./config.env).
 
 ### Configuring Encoding Format
 To Change The FFMPEG Profile Edit Them In [ffmpeg_utils.py](./ffmpeg_utils.py)
-Already Optimized For Some Qualities :)
+
+- Already Optimized For Some Qualities :)
 
 ### Installing Requirements
 Install The Required Python Modules In Your Machine.
